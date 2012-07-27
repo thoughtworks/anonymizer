@@ -50,6 +50,18 @@ Create a new virtualenv for this project and install its dependencies:
    $ pip install -r requirements.txt
    ```
 
+When you want to deactivate the anonymizer environment, simply run:
+
+   ```
+   $ deactivate
+   ```
+
+When you want to get back to work on anonymizer, run:
+
+   ```
+   $ workon anonymizer
+   ```
+
 ## TODO
 
 * How to run tests
